@@ -177,7 +177,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="120" />
     <option name="width" value="1380" />
@@ -315,15 +315,15 @@
       <workItem from="1571052330096" duration="1576000" />
       <workItem from="1571058576697" duration="978000" />
       <workItem from="1571178883011" duration="292000" />
-      <workItem from="1605706182927" duration="2436000" />
+      <workItem from="1605706182927" duration="3031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187815000" />
+    <option name="totallyTimeSpent" value="188410000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="120" width="1380" height="735" extended-state="0" />
+    <frame x="-8" y="120" width="1380" height="735" extended-state="1" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30151516" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
